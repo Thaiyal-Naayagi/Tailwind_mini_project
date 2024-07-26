@@ -1,0 +1,42 @@
+*{
+    color: white;
+    margin : 0;
+    padding: 0;
+    scrollbar-width: none;
+  }
+  img{
+    width: 100%;
+    height: auto;
+  }
+  .back1{
+    background-image: url("https://th.bing.com/th?id=OIP.EH6IVTfp50Ugb8MOlyMIAAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.7&pid=3.1&rm=2");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    display: grid;
+    gap: 10px;
+  }
+  .part2{
+    background-color: black;
+    color: white;
+  }
+  .part3{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrm0DBnTGC2IckrzYw3nyxOQsWXtAzKzgaGuxHQlYVwMOJSyq7KoixfwsUA&s");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .back2{
+    background-color: rgb(28, 26, 26);
+  }
+  .part7{
+    background-color: black;
+  }
+  footer{
+    background-color: black; 
+  }
+  .part5{
+    grid-template-columns: repeat(auto-fit, 1fr);
+  }
+  
